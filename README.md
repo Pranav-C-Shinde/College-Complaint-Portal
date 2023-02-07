@@ -1,24 +1,24 @@
 # College-Complaint-Portal
 
-![IMAGE](image1.jpg)
+![IMAGE](Image1.jpg)
 
 
-![IMAGE](image2.jpg)
+![IMAGE](Image2.jpg)
 
 
-![IMAGE](image3.jpg)
+![IMAGE](Image3.jpg)
 
 
-![IMAGE](image4.jpg)
+![IMAGE](Image4.jpg)
 
 
-![IMAGE](image5.jpg)
+![IMAGE](Image5.jpg)
 
 
-![IMAGE](image6.jpg)
+![IMAGE](Image6.jpg)
 
 
-![IMAGE](image7.jpg)
+![IMAGE](Image7.jpg)
 
 
-![IMAGE](image8.jpg)
+![IMAGE](Image8.jpg)
